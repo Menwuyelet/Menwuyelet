@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/menwuyelet/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:menutemesgem@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:menutemesgen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ I'm driven by the challenge of creating solutions that help people and improve t
 ## 📫 How to Reach Me
 
 <p>
-  <a href="mailto:menu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:menutemesgen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/menwuyelet/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
 </p>
 

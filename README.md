@@ -28,13 +28,15 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## 🌱 Current Focus
 
-- 🔭 Working on **ALX ProDev projects**, LeetCode challenges, and personal side projects to deepen my skills.
+- 🔭 Working on my **Bsc in CSE**, LeetCode challenges, and personal side projects to deepen my skills.
 - 💪 Exploring backend technologies and advanced Python and Django topics.
 - 🤝 Open to collaborations, internships, and real-world opportunities to apply and grow.
 

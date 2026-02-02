@@ -1,75 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Menwuyelet</h1>
+<h1 align="center">Hi 👋, I'm Menwuyelet</h1>
+<h3 align="center">CSE Student at ASTU | A2SV Trainee | Backend Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/menwuyelet/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:menutemesgen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Backend+Engineer;Django+%26+Python+Enthusiast;System+Architecture;A2SV+Software+Engineering+Trainee;CSEC+ASTU+Member" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎓 I'm a **CSE student at Adama Science and Technology University (ASTU)**, passionate about backend development.  
-
-💡 I started learning software engineering to **solve real-world problems and build impactful solutions through programming and technology**.  
-
-⚡ My biggest passion lies in **problem-solving and building things that bring ideas to life**.  
-
-🌟 Currently, my goal is to **keep learning, become a strong software engineer, and gain experience through internships or real-world projects**.  
-
-🎶 Outside of coding, I enjoy music, riding my motorbike, and reading.
+## 👨‍💻 About Me
+- 🎓 **CSE Student** at Adama Science and Technology University (ASTU)
+- 🚀 **Software Engineering Trainee** at Africa to Silicon Valley (A2SV)
+- 🧠 **CSEC ASTU member** — Dedicated to problem-solving and competitive programming
+- ⚙️ **Backend Specialist** focused on building scalable **REST APIs** and robust **System Architecture**
+- 💡 Driven by turning complex logic into impactful, real-world solutions
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<h2 align="center">💻 Programming Languages</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="c" />
 </p>
 
----
+<h2 align="center">⚙️ Backend & Infrastructure</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="linux" />
+</p>
 
-## 🌱 Current Focus
-
-- 🔭 Working on my **Bsc in CSE**, LeetCode challenges, and personal side projects to deepen my skills.
-- 💪 Exploring backend technologies and advanced Python and Django topics.
-- 🤝 Open to collaborations, internships, and real-world opportunities to apply and grow.
-
----
-
-## 💡 What Inspires Me
-
-Programming allows me to turn ideas into reality and solve meaningful problems.  
-I'm driven by the challenge of creating solutions that help people and improve the world around me.
-
----
-
-## 📫 How to Reach Me
-
-<p>
-  <a href="mailto:menutemesgen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/menwuyelet/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+<h2 align="center">🔧 Tools & Databases</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="git" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="postman" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=menwuyelet&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menwuyelet&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=menwuyelet&show_icons=true&theme=tokyonight&icon_color=FFD700&text_color=ffffff&title_color=FFD700" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menwuyelet&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=menwuyelet&layout=compact&theme=tokyonight&text_color=ffffff&title_color=FFD700" alt="top languages" />
 </p>
 
+---
+
+## 📫 Contact Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menwuyelet&layout=compact&theme=tokyonight" />
+  <a href="mailto:menutemesgen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/menwuyelet/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
